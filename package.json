@@ -1,0 +1,23 @@
+{
+  "name": "mysql_burger-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThespianNemo/mySql_burger-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThespianNemo/mySql_burger-/issues"
+  },
+  "homepage": "https://github.com/ThespianNemo/mySql_burger-#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
